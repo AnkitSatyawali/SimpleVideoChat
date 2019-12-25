@@ -1,0 +1,48 @@
+video {
+    transform: rotateY(180deg); 
+}
+
+.select {
+    height: 30px;
+}
+
+.h-90 {
+    height: 90% !important;
+}
+
+.h-10 {
+    height: 10% !important;
+}
+
+#peerVideo:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form-check-label{
+    color:black;
+}
+
+
+#error{
+    display: none;
+    color:red;
+    font-weight:bold;
+    text-align: center;
+    width:40%;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 280px;
+}
+#instruction{
+    width:30%;
+    margin:0 auto;
+    font-size: 18px;
+}
