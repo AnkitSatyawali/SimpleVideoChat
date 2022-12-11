@@ -9,7 +9,7 @@
   },
   "author": "Ankit Satyawali",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "simple-peer": "^9.6.2",
     "socket.io": "^2.3.0"
   },
